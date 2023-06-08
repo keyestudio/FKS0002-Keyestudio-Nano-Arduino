@@ -2,7 +2,7 @@
 
 ### **1.Install Arduino IDE**
 
-#### **1).For Windows**
+#### **1.2 For Windows**
 
 Arduino official website: https://www.arduino.cc/
 
@@ -22,7 +22,7 @@ Two versions are provided for Windows: for installing and for downloading(a zipp
 
 Click **JUST DOWNLOAD** to download the software. 
 
-#### **2).For Mac**
+#### **1.2 For Mac**
 
 For Mac, Arduino IDE downloading is similar to Windows:
 
@@ -34,7 +34,7 @@ For Mac, Arduino IDE downloading is similar to Windows:
 
 After installing Arduino IDE, a driver is required. Nano development board adopts CH340G as its serial driver IC.
 
-#### **1).For Windows**
+#### **2.1 For Windows**
 
 Connect the control board to computer via USB. For Windows 10, the driver will be automatically installed in most cases. For Windows 7 and others, you should install it manually. 
 
@@ -66,7 +66,7 @@ Finally, click Computer--Attributes--Device Manager:
 
 ![new(19)](./media/new(19).png)
 
-#### **2).For MAC**
+#### **2.2 For MAC**
 
 Please refer to:
 
@@ -74,7 +74,7 @@ https://wiki.keyestudio.com/Download_CH340_Driver_on_MAC_System
 
 ### **3.Arduino IDE Settings and Toolbar**
 
-#### **1).For Windows**
+#### **3.1 For Windows**
 
 Firstly, open Arduino IDE.
 
@@ -88,7 +88,7 @@ Choose the corresponding COM port, which can be seen after successful installati
 
 ![new(22)](./media/new(22).png)
 
-#### **2).For MAC**
+#### **3.2 For MAC**
 
 The setting method of Arduino IDE resembles that of Windows. The only difference is COM port:
 
@@ -118,13 +118,13 @@ Arduino programming language consists of three main parts: function, value(varia
 
 Before starting our projects, libraries need to be added in the sofware.
 
-#### **1).What Is A Library?**
+#### **5.1 What Is A Library?**
 
 A library is a collection of codes, and it facilitate the connection of sensors, monitors and modules. 
 
 For instance, in-built LiquidCrystal library simplifies the communication with LCD display. Moreover, hundreds of libraries are available on Internet. In the reference, in-built and manually-added libraries are listed.  
 
-#### **2).How to Install A Library?**
+#### **5.2 How to Install A Library?**
 
 Firstly, click Sketch>Include Library>Add .Zip Library... in sequence.
 

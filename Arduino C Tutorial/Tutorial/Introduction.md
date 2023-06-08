@@ -1,4 +1,4 @@
-# **Introduction**
+# **Product Introduction**
 
 ### **About Keyestudio**
 
@@ -25,7 +25,7 @@ The keyestudio trademark and logo are the copyright of KEYES DIY ROBOT co.,LTD. 
 
 If you are interested in our products, please contact to our sales representatives: fennie@keyestudio.com
 
-# **NANO Inventor Starter Kit**
+## **NANO Inventor Starter Kit**
 
 ![FKS0002-01](./media/FKS0002-01.jpg)
 
@@ -39,15 +39,15 @@ For each project, we offer you two programming language: Arduino C and graphical
 
 ### **2. Features**
 
-**1. Easy wiring:** The wiring of VCC and GND are removed, so there is no need to worry about burning sensors and modules.
+**2.1  Easy wiring:** The wiring of VCC and GND are removed, so there is no need to worry about burning sensors and modules.
 
-**2. Multiple functions:** Nano/ESP32 development board are both available as the control board; 15 sensors are integrated; The VCC of 3.3V/5V can be adjusted via DIP switch when connecting to external power supply.
+**2.2  Multiple functions:** Nano/ESP32 development board are both available as the control board; 15 sensors are integrated; The VCC of 3.3V/5V can be adjusted via DIP switch when connecting to external power supply.
 
-**3. Simple structure:** With 6mm dual-pass copper pillars and acrylic boards, the installation is convenient meanwhile it avoids you being scratched by welding points.
+**2.3  Simple structure:** With 6mm dual-pass copper pillars and acrylic boards, the installation is convenient meanwhile it avoids you being scratched by welding points.
 
-**4. High expansibility:** Though in-built VCC is provided on modules in this kit, lead-out pins of VCC and GND are reserved to expand for external modules.
+**2.4  High expansibility:** Though in-built VCC is provided on modules in this kit, lead-out pins of VCC and GND are reserved to expand for external modules.
 
-**5. Underlying code learning:** In view of green hands, graphical programming is used to cultivate programming logic and build foundation. Considering of well-grounded persons, C language is used combining with hardware working principles to know deeper on underlying code. 
+**2.5  Underlying code learning:** In view of green hands, graphical programming is used to cultivate programming logic and build foundation. Considering of well-grounded persons, C language is used combining with hardware working principles to know deeper on underlying code. 
 
 ### **3. Parameters**
 

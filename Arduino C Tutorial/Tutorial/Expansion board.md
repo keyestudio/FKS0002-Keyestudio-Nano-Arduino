@@ -1,4 +1,4 @@
-## **Inventor Starter Kit Expansion Board**
+# **Inventor Starter Kit Expansion Board**
 
 #### **1.Introduction**
 
