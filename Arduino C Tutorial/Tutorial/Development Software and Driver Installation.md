@@ -30,7 +30,7 @@ For Mac, Arduino IDE downloading is similar to Windows:
 
 
 
-### **2.Install Development Board Driver**
+### **2.Install Driver**
 
 After installing Arduino IDE, a driver is required. Nano development board adopts CH340G as its serial driver IC.
 
